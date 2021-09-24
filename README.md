@@ -18,6 +18,10 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" width="45px">](https://www.arduino.cc)‏‏‎ ‎ ‏‏‎ ‎ ‏‏‎ ‎
 [<img src="https://newscrewdriver.files.wordpress.com/2018/07/gazebo.png" width="30px">](http://gazebosim.org)‏‏‎ ‎ ‏‏‎ ‎ ‏‏‎ ‎
 
+[<img src="https://s.getwinpcsoft.com/icons/png/48/2548/2548000.png" width="40px">](https://www.mitsubishielectric.com/fa/products/cnt/plceng/smerit/gx_works2/index.html)‏‏‎ ‎ ‏‏‎ ‎ ‏‏‎ ‎
+[<img src="https://m.xue51.com/logo/190527/201905271152444813.jpg" width="40px">](https://www.mitsubishielectric.com/fa/products/cnt/plceng/smerit/gx_works3/programming.html)‏‏‎ ‎ ‏‏‎ ‎ ‏‏‎ ‎
+[<img src="https://img.informer.com/icons/png/128/4676/4676206.png" width="40px">](https://us.mitsubishielectric.com/fa/en/products/visualization/human-machine-interfaces-hmis-got/engineering-software/gt-works3-version1/gt-works3-version1)‏‏‎ ‎ ‏‏‎ ‎ ‏‏‎ ‎
+
 
 
 
