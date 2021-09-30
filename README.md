@@ -1,5 +1,13 @@
 ### Hi there, I'm BruttherJOE 👋
 
+```
+
+  "
+    No hugs or kisses, only bugs and fixes
+                                           "
+                                           
+```
+
 ## I'm currently in my last year in SUTD!
 - 🔭 I’m currently working on capstone project with Performance Rotors
 - ⚡ Fun fact: I love doing calligraphy and I sometimes draw
