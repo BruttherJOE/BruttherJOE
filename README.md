@@ -9,7 +9,7 @@
 ```
 
 ## I'm currently in my last year in SUTD!
-- 🔭 I’m currently working on capstone project with Performance Rotors
+
 - ⚡ Fun fact: I love doing calligraphy and I sometimes draw
 - 👯 I am a developer and want to collaborate on robotics projects
 
