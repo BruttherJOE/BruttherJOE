@@ -11,7 +11,7 @@
 ## I'm currently in my last year in SUTD!
 
 - ⚡ Fun fact: I love doing calligraphy and I sometimes draw
-- 👯 I am a developer and want to collaborate on robotics projects
+- 👯 I do robotics projects as a hobby and would love to collaborate
 
 ### Connect with me :
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="60px">](https://www.linkedin.com/in/lim-yi-shen-144383134/)‏‏‎ ‎ ‏‏‎ ‎
@@ -31,6 +31,8 @@
 [<img src="https://img.informer.com/icons/png/128/4676/4676206.png" width="40px">](https://us.mitsubishielectric.com/fa/en/products/visualization/human-machine-interfaces-hmis-got/engineering-software/gt-works3-version1/gt-works3-version1)‏‏‎ ‎ ‏‏‎ ‎ ‏‏‎ ‎
 
 
+### Currently learning :
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="40px">](https://www.geeksforgeeks.org/c-plus-plus/)‏‏‎ ‎ ‏‏‎ ‎ ‏‏‎ ‎
 
 
 
