@@ -8,7 +8,7 @@
                                            
 ```
 
-## I'm currently in my last year in SUTD!
+## I'm currently working at Micro Automation as a controls and vision engineer!
 
 - ⚡ Fun fact: I love doing calligraphy and I sometimes draw
 - 👯 I do robotics projects as a hobby and would love to collaborate
