@@ -8,10 +8,9 @@
                                            
 ```
 
-## I'm currently working at Micro Automation as a controls and vision engineer!
+## I'm currently working at d'Optron as a vision engineer!
 
-- ⚡ Fun fact: I love doing calligraphy and I sometimes draw
-- 👯 I do robotics projects as a hobby and would love to collaborate
+You're here for a reason. Let me give you some quickstart links.
 
 ### Connect with me :
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="60px">](https://www.linkedin.com/in/lim-yi-shen-144383134/)‏‏‎ ‎ ‏‏‎ ‎
