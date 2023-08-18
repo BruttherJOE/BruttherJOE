@@ -8,6 +8,8 @@
                                            
 ```
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bruttherjoe&label=Profile%20views&color=0e75b6&style=flat-square" alt="bruttherjoe" /> </p>
+
 ## I'm currently working at d'Optron as a vision engineer!
 
 You're here for a reason. Let me give you some quickstart links.
