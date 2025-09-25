@@ -10,9 +10,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bruttherjoe&label=Profile%20views&color=0e75b6&style=flat-square" alt="bruttherjoe" /> </p>
 
-## I'm currently working at d'Optron as a vision engineer!
+## I'm currently working at SUTD as a Researcher.
 
-You're here for a reason. Let me give you some quickstart links.
 
 ### Connect with me :
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="70px">](https://www.linkedin.com/in/lim-yi-shen-144383134/)‏‏‎ ‎ ‏‏‎ ‎
